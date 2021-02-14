@@ -8,8 +8,8 @@ This is an API that provides the factorial of a number.
 3. Hit: localhost:3000/fibonacci/:n
 where n is the argument of the fibonacci function.
 
-For example to get fibonacci of 5 hit:
+For example to get fibonacci of 8 hit:
 
-[http://localhost:3000/fibonacci/5](http://localhost:3000/fibonacci/5)
+[http://localhost:3000/fibonacci/8](http://localhost:3000/fibonacci/8)
 
 as a json query using postman or insomnia clients.
